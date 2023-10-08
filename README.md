@@ -11,3 +11,9 @@
 
 ## Mail Received upon insertion
 ![Data _ Cloud_ MongoDB Cloud - Google Chrome 08-10-2023 23_09_21](https://github.com/lucio617/verb-assignment/assets/55478160/6ff28c6d-81cb-441f-99c7-86c33ecfc895)
+
+## Vidoe Demo
+
+
+https://github.com/lucio617/verb-assignment/assets/55478160/4d7c8b77-59f2-4148-a405-ab3dca7cce94
+
